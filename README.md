@@ -40,6 +40,7 @@ Live AI bots on Telegram demonstrating different niches and architectures.
 - **[@midjourney_ai_bot](https://t.me/midjourney_ai_bot)** and similar — image generation bots using Midjourney / Stable Diffusion / Flux APIs.
 - **[@TranscribeBot](https://t.me/tg_transcribe_bot)** and voice transcription bots — Whisper-based transcription integrated via Telegram voice messages.
 - **Translation bots** — DeepL / Google Translate wrappers with language auto-detection from user `language_code`.
+- **[@grunz_bot](https://t.me/grunz_bot)** ([grunzai.com](https://grunzai.com)) — chat with open-weight models (Qwen, DeepSeek, GLM, Kimi, Dolphin) that have had their refusal training removed, so they answer instead of refusing. No account or sign-in, conversations not stored, `/model` switches between models. Same models also served as a web app and a desktop coding agent.
 
 *Only production bots with sustained user bases. Abandoned or single-developer demos are excluded.*
 
