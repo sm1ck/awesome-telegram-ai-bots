@@ -59,6 +59,7 @@ This is the most active niche on Telegram right now — character-based AI chat 
 - **[Muah AI](https://muah.ai)** — PWA (apps removed from stores). $9.99–99.99/mo + separate credit system. Voice calls + photo exchange. *Note: disclosed 2024 data breach (1.9M user emails + conversation prompts leaked); verify current security posture before integrating or recommending.*
 - **[Character.AI](https://character.ai)** — web + mobile, $9.99/mo c.ai+ (20% off annual = $7.92/mo). 10M+ community characters, generous free text tier, Imagine Gallery (image gen, c.ai+ since March 2026), unlimited voice calls (c.ai+). Strong content filter makes it unsuitable for romantic / adult roleplay compared to the above.
 - **[Replika](https://replika.com)** — mobile-first with web, Pro $19.99/mo (or $5.83/mo annual) / Ultra $29.99/mo. 3D avatar customization, AR/VR support, emotional-support positioning. Romantic features available on paid tiers.
+- **[@TSocialAppBot](https://t.me/TSocialAppBot)** - Flirt Social (formerly T-Social), TikTok-style social Mini App for Telegram: short clips, trending creators, AI chat characters. 18+.
 
 *If you maintain a Telegram AI companion bot not listed here, open a PR. Keep entries factual — stale pricing is the #1 reason readers lose trust in curated lists.*
 
